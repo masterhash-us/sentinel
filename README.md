@@ -4,7 +4,7 @@ An all-powerful toolset for Saros.
 
 [![Build Status](https://travis-ci.org/sarospay/sentinel.svg?branch=master)](https://travis-ci.org/sarospay/sentinel)
 
-Sentinel is an autonomous agent for persisting, processing and automating Saros V12.1 governance objects and tasks, and for expanded functions in the upcoming Saros V13 release (Evolution).
+Sentinel is an autonomous agent for persisting, processing and automating Saros V12.1 governance objects and tasks, and for expanded functions in the upcoming Saros  release (Evolution).
 
 Sentinel is implemented as a Python application that binds to a local version 12.1 sarosd instance on each Saros V12.1 Masternode.
 
